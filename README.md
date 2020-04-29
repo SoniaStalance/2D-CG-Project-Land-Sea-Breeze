@@ -5,7 +5,7 @@ Language: C++ using OpenGL/GLUT
 
 ![Output](screenrec-output.gif)
 
-<img src="https://github.com/SoniaStalance/2D-CG-Project-Land-Sea-Breeze/blob/master/wlcmScreen.png" width="650" height="400">
+![Output](wlcmScreen.png)
 
 ## Executing in Visual Studio 2019
 
